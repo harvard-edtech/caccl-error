@@ -1,0 +1,30 @@
+{
+  "name": "caccl-error",
+  "version": "1.0.0",
+  "description": "A simple, standardized error class for all modules in the CACCL library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harvard-edtech/caccl-error.git"
+  },
+  "keywords": [
+    "CACCL",
+    "Error"
+  ],
+  "author": "Gabriel Abrams <gabeabrams@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harvard-edtech/caccl-error/issues"
+  },
+  "homepage": "https://github.com/harvard-edtech/caccl-error#readme",
+  "devDependencies": {
+    "eslint": "^5.6.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1"
+  }
+}
