@@ -1,6 +1,6 @@
 {
   "name": "caccl-error",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple, standardized error class for all modules in the CACCL library",
   "main": "index.js",
   "scripts": {
