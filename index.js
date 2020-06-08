@@ -5,7 +5,7 @@ class CACCLError extends Error {
     this.message = options.message || 'An unknown error occurred.';
     this.name = options.name || 'CACCLError';
     this.code = String(options.code || 'NOCODE1').toUpperCase();
-    this.stack = options.stack || new Error().stack;
+    this.stack = options.stack || new Error(this.message).stack;
 
     this.isCACCLError = true;
   }
