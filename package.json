@@ -1,6 +1,6 @@
 {
   "name": "caccl-error",
-  "version": "2.0.0-beta.10",
+  "version": "2.0.0-beta.15",
   "description": "A simple, standardized error class for all modules in the CACCL library",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -15,7 +15,7 @@
     "CACCL",
     "Error"
   ],
-  "author": "Gabriel Abrams <gabeabrams@gmail.com>",
+  "author": "Gabe Abrams <gabeabrams@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/harvard-edtech/caccl-error/issues"
