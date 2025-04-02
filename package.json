@@ -1,6 +1,6 @@
 {
   "name": "caccl-error",
-  "version": "2.2.19-log-api-forwarding-beta.1",
+  "version": "2.2.19-log-api-forwarding-beta.2",
   "description": "A simple, standardized error class for all modules in the CACCL library",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
