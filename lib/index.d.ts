@@ -1,3 +1,7 @@
+/**
+ * Custom CACCL error that contains a message and code
+ * @author Gabe Abrams
+ */
 declare class CACCLError extends Error {
     message: string;
     name: string;
